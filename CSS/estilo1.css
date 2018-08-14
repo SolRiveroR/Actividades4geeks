@@ -1,0 +1,39 @@
+body {
+    background-image: url("../IMG/fondocss.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    background-color:green;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+    color: white;
+    background-color:pink;
+    margin-top:100px;
+    margin-bottom:100px;
+    margin-right:150px;
+    margin-left:110px;
+    border-style:solid;
+}
+
+div{
+	background-color:white;
+	color:blue;
+	text-align:center;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
